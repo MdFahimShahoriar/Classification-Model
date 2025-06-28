@@ -1,2 +1,3 @@
 # Classification-Model
-Need to work on PowerPoint. 
+1. Need to work on PowerPoint.
+2. Paper writing. 
